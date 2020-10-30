@@ -1,0 +1,36 @@
+2020-10-26T13:42:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:326
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_banner_cart_page('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(91): do_action('woocommerce_che...')
+#4 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#6 E:\local\app\public\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#7 [internal function]: do_shortcode_tag(Array)
+#8 E:\local\app\public\wp-includes\shortcodes.php(218): preg_replace in E:\local\app\public\wp-content\themes\theme\functions.php on line 326
+
+2020-10-26T14:07:56+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\local\app\public\wp-content\themes\theme\functions.php on line 146
+
+2020-10-26T14:09:03+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\local\app\public\wp-content\themes\theme\functions.php on line 145
+
+2020-10-26T14:10:42+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\local\app\public\wp-content\themes\theme\functions.php on line 167
+
+2020-10-26T14:10:43+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\local\app\public\wp-content\themes\theme\functions.php on line 167
+
+2020-10-26T15:36:24+00:00 CRITICAL syntax error, unexpected '**' (T_POW), expecting end of file in E:\local\app\public\wp-content\themes\theme\functions.php on line 240
+
+2020-10-26T16:42:59+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:46:09+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:47:08+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:47:10+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:47:12+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:47:13+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+
+2020-10-26T16:47:56+00:00 CRITICAL Object of class WP_Post could not be converted to string in E:\local\app\public\wp-content\themes\theme\functions.php on line 264
+

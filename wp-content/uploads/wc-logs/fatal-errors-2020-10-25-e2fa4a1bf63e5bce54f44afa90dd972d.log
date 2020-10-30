@@ -1,0 +1,168 @@
+2020-10-25T22:44:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:45:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:45:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:49:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:50:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:50:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:50:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:240
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 240
+
+2020-10-25T22:51:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:240
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 240
+
+2020-10-25T22:53:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:54:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:245
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_subtitle_single_product('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\templates\content-single-product.php(60): do_action('woocommerce_sin...')
+#4 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(283): load_template('E:\\local\\app\\pu...', false)
+#6 E:\local\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#7 E:\local\app\public\wp-includes\template-loader.php(106): include('E:\\local\\app\\pu...')
+#8 E:\local\app\public\wp-b in E:\local\app\public\wp-content\themes\theme\functions.php on line 245
+
+2020-10-25T22:58:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:326
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_banner_cart_page('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(91): do_action('woocommerce_che...')
+#4 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#6 E:\local\app\public\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#7 [internal function]: do_shortcode_tag(Array)
+#8 E:\local\app\public\wp-includes\shortcodes.php(218): preg_replace in E:\local\app\public\wp-content\themes\theme\functions.php on line 326
+
+2020-10-25T22:58:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:390
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_blog_related_products('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\themes\storefront\inc\storefront-template-functions.php(423): do_action('storefront_post...')
+#4 E:\local\app\public\wp-includes\class-wp-hook.php(287): storefront_post_content('')
+#5 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 E:\local\app\public\wp-content\themes\storefront\content.php(19): do_action('storefront_loop...')
+#8 E:\local\app\public\wp-includes\template.php(732): require('E:\\local\\app\\pu...')
+#9 E:\local\app\public\wp-includes\template.php in E:\local\app\public\wp-content\themes\theme\functions.php on line 390
+
+2020-10-25T22:58:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:326
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_banner_cart_page('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(91): do_action('woocommerce_che...')
+#4 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#6 E:\local\app\public\wp-includes\shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#7 [internal function]: do_shortcode_tag(Array)
+#8 E:\local\app\public\wp-includes\shortcodes.php(218): preg_replace in E:\local\app\public\wp-content\themes\theme\functions.php on line 326
+
+2020-10-25T23:00:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\local\app\public\wp-content\themes\theme\functions.php:326
+Stack trace:
+#0 E:\local\app\public\wp-includes\class-wp-hook.php(287): carolinaspa_display_banner_cart_page('')
+#1 E:\local\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\local\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\local\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(272): do_action('woocommerce_che...')
+#4 E:\local\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#5 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#6 E:\local\app\public\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#7 E:\local\app\public\wp-includes\shortcodes.php(343): WC_Shortcod in E:\local\app\public\wp-content\themes\theme\functions.php on line 326
+
